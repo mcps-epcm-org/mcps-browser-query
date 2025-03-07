@@ -1,1 +1,1 @@
-# Query MCPS Browser programatically\n
+# Query MCPS Browser programatically
